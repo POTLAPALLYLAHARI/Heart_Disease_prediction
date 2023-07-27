@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import scipy
-
+from skearn import datasets
 st.write("""
 # Heart disease Prediction App
 
